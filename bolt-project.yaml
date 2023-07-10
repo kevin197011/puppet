@@ -1,0 +1,7 @@
+---
+name: puppet
+modulepath:
+  - modules
+modules:
+  - puppetlabs/apache
+  - puppetlabs/mysql
